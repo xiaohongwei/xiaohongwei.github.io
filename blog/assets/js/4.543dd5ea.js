@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{123:function(n,e,t){"use strict";t.r(e);var i={name:"info"},a=t(0),r=Object(a.a)(i,function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\r\n    这个是来自自定义组件的信息  info.vue\r\n")])},[],!1,null,"3f3ca21a",null);e.default=r.exports}}]);
